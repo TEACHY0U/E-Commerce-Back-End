@@ -128,7 +128,6 @@ router.delete('/:id', async (req, res) => {
       });
       return;
     }
-  }
 });
 
 module.exports = router;
